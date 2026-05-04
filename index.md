@@ -6,4 +6,4 @@ All data entered into the app is stored locally on the user’s device and is ne
 
 The app does not use analytics, advertising, tracking technologies, or any third-party services.
 
-If you have questions or concerns, you can contact the developer at: elias.hitchcock@outlook.com
+If you have questions or concerns, you can contact the developer at: shifttracker_support@giestdev.com
